@@ -1,0 +1,1 @@
+print(f"serão usadas: {1250 // 24} caixas completas e sobrarão fora da caixa: {1250 % 24} produtos")
